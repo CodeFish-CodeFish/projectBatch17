@@ -18,6 +18,5 @@ public class Task1 {
         System.out.println( totalInch + " inches is " + total + " meters ");
 
 
-
     }
 }
